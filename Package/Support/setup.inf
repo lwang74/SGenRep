@@ -1,0 +1,37 @@
+;*** BEGIN **********************************************************
+;**                                                                **
+;** Automatically generated on: Sun Aug 24 23:22:52 2003           **
+;**                                                                **
+;** MakeCAB Version: (32) 1.00.603.4 (06/25/98)                     **
+;**                                                                **
+;*** BEGIN **********************************************************
+[disk list]
+1,Disk 1
+2,Disk 2
+[cabinet list]
+1,1,SGenRe1.CAB
+2,2,SGenRe2.CAB
+[file list]
+1,0,Setup.Lst,4085
+1,0,setup.exe,139776
+1,1,SGenRep.exe,77824
+1,1,msvbvm60.dll,1388544
+1,1,OLEAUT32.DLL,598288
+1,1,OLEPRO32.DLL,164112
+1,1,ASYCFILT.DLL,147728
+1,1,STDOLE2.TLB,17920
+1,1,COMCAT.DLL,22288
+1,1,EXCEL9.OLB,638976
+2,2,scrrun.dll,147512
+2,2,msvcrt.dll,290869
+2,2,COMDLG32.OCX,140288
+2,2,MSCOMCTL.OCX,1066176
+2,2,SETUP1.EXE,249856
+2,2,VB6STKIT.DLL,101888
+2,2,ST6UNST.EXE,73216
+2,2,Template.xls,21504
+;*** END ************************************************************
+;**                                                                **
+;** Automatically generated on: Sun Aug 24 23:22:52 2003           **
+;**                                                                **
+;*** END ************************************************************
